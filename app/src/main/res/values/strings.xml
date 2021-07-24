@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomeWorkOne</string>
+    <string name="homeworkone">HomeWorkOne</string>
+    <string name="switchSwitch">Switch</string>
 </resources>
